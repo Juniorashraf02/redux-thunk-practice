@@ -3,3 +3,9 @@ export const REMOVE_FROM_CART = "REMOVE_FROM_CART";
 export const PRODUCT_LOADED = "PRODUCT_LOADED";
 export const ADD_PRODUCT = "ADD_PRODUCT";
 export const REMOVE_PRODUCT = "REMOVE_PRODUCT";
+
+
+// for filters
+export const TOGGLE_BRANDS = "TOGGLE_BRANDS"
+export const TOGGLE_STOCKS = "TOGGLE_STOCKS"
+
